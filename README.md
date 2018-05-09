@@ -1,4 +1,4 @@
-# rsync-container-build
+# rsync-container
 
 Designed to take an ssh-key and allow it read-only
 rsync access to backup a volume to a remote system.
